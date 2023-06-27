@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GitHubUser</string>
+    <string name="img_github">imgGitHub</string>
+    <string name="reminder_key">reminder</string>
+    <string name="usergithub">UserGitHub</string>
+
+    <string name="username">UserNama</string>
+    <string name="name">Nama :</string>
+    <string name="nameuser">NamaUser</string>
+    <string name="location">Lokasi :</string>
+    <string name="locationuser">LokasiUser</string>
+    <string name="company">Perusahaan :</string>
+    <string name="companyuser">PerusahaanUser</string>
+    <string name="repository">Penyimpanan</string>
+    <string name="repo">0</string>
+    <string name="followers">Pengikut</string>
+    <string name="follws">0</string>
+    <string name="following">Mengikuti</string>
+    <string name="follwng">0</string>
+    <string name="change_language_settings">Ubah Pengaturan Bahasa</string>
+    <string name="_reminder">Alarm</string>
+    <string name="setting">Pengaturan</string>
+
+    <string name="toast_sav">Di Simpan Ke Favorit </string>
+    <string name="toast_del">Hapus Dari Favorit</string>
+    <string name="find_user">Temukan Nama Pengguna</string>
+    <string name="text_alrm">Ayo Login Ada Pengguna Yang Baru Bergabung</string>
+
+
+    <string name="home">Rumah</string>
+    <string name="favorite">Favorit</string>
+    <string name="html">HTML_User</string>
+    <string name="favoriteUser">FavoritUser</string>
+
+
+
+</resources>

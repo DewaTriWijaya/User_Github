@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">GitHubUser</string>
+    <string name="img_github">imgGitHub</string>
+    <string name="reminder_key">reminder</string>
+    <string name="usergithub">UserGitHub</string>
+
+    <string name="username">UserName</string>
+    <string name="name">Name :</string>
+    <string name="nameuser">NameUser</string>
+    <string name="location">Location :</string>
+    <string name="locationuser">LocationUser</string>
+    <string name="company">Company :</string>
+    <string name="companyuser">CompanyUser</string>
+    <string name="repository">Repository</string>
+    <string name="repo">0</string>
+    <string name="followers">Followers</string>
+    <string name="follws">0</string>
+    <string name="following">Following</string>
+    <string name="follwng">0</string>
+    <string name="change_language_settings">Change Language Settings</string>
+    <string name="_reminder">Reminder</string>
+    <string name="setting">Settings</string>
+
+    <string name="toast_sav">Saved To Favorites</string>
+    <string name="toast_del">Removed from Favorites</string>
+    <string name="find_user">Find UserName</string>
+    <string name="text_alrm">lets login there are users who just joined</string>
+
+    <string name="home">Home</string>
+    <string name="favorite">Favorite</string>
+    <string name="html">HTML</string>
+    <string name="favoriteUser">FavoriteUser</string>
+
+
+</resources>

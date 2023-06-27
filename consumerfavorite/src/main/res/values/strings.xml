@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">FavUserGit</string>
+    <string name="followers">Followers</string>
+    <string name="following">Following</string>
+    <string name="name">Name :</string>
+    <string name="name1">Name</string>
+    <string name="location">Location :</string>
+    <string name="location1">Location</string>
+    <string name="company">Company :</string>
+    <string name="company1">Company</string>
+    <string name="repos">Repository</string>
+    <string name="consumergithubuser">ConsumerGitHubUser</string>
+    <string name="username">UserName</string>
+    <string name="companyuser">CompanyUser</string>
+    <string name="htmluser">HtmlUser</string>
+    <string name="trs">Translate</string>
+</resources>

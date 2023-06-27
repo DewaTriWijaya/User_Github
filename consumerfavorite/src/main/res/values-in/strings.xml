@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FavUserGit</string>
+    <string name="followers">Pengikut</string>
+    <string name="following">Mengikuti</string>
+    <string name="name">Nama :</string>
+    <string name="name1">Nama</string>
+    <string name="location">Lokasi :</string>
+    <string name="location1">Lokasi</string>
+    <string name="company">Perusahaan :</string>
+    <string name="company1">Perusahaan</string>
+    <string name="repos">Penyimpanan</string>
+    <string name="consumergithubuser">ConsumerGitHubUser</string>
+    <string name="username">NamaPengguna</string>
+    <string name="companyuser">PerusahaanPengguna</string>
+    <string name="htmluser">HtmlPengguna</string>
+    <string name="trs">Terjemahan</string>
+</resources>
